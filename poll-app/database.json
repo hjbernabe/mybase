@@ -1,0 +1,78 @@
+{
+  "polls": [
+    {
+      "id": "1699056593530",
+      "question": "Valg",
+      "options": [
+        "Trump",
+        "Biden"
+      ],
+      "votes": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": "1699057638927",
+      "question": "Question",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "votes": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "1699125164080",
+      "question": "Taste",
+      "options": [
+        "Good",
+        "Bad",
+        "Neutral"
+      ],
+      "votes": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "1699125679402",
+      "question": "test",
+      "options": [
+        "1",
+        "2",
+        ""
+      ],
+      "votes": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1699055460061",
+      "email": "test@mail.com",
+      "password": "123"
+    },
+    {
+      "id": "1699057551100",
+      "email": "herman@test.com",
+      "password": "123"
+    },
+    {
+      "id": "1699124992591",
+      "email": "hello@test.com",
+      "password": "1234"
+    },
+    {
+      "id": "1699125661155",
+      "email": "test@gmail.com",
+      "password": "123"
+    }
+  ]
+}
